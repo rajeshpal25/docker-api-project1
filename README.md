@@ -73,8 +73,9 @@ This will create data.json in your project folder.
 json is part of Python’s standard library; no need to install via pip.
 
 You can easily replace the API URL in app_v1.py to fetch different data.
+---
 
-License
+### License
 This project is open source and available under the MIT License
 
 ---
